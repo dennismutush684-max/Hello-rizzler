@@ -5,11 +5,11 @@ int main() {
     int i;
 
     // Declare and initialize the array
-    int marks[7] = {10000, 9000, 8000, 7000, 6000, 5000, 4000};
+    int revenue [7] = {10000, 9000, 8000, 7000, 6000, 5000, 4000};
 
     // Display array elements using a for loop
     for (i = 0; i < 7; i++) {
-        printf("%d\n", marks[i]);
+        printf("%d\n", revenue [i]);
     }
 
     return 0;
