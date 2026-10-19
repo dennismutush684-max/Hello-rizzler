@@ -1,4 +1,4 @@
-//1D array// 1D array
+//1D array
 #include <stdio.h>
 
 int main() {
