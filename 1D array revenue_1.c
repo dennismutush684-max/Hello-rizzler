@@ -1,3 +1,4 @@
+//1D array
 #include <stdio.h>
 
 int main() {
