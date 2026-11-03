@@ -7,7 +7,7 @@ Version 1
 */
 
 // pre-processor directive
-#include <stdio.h> // scanf(), printf()
+#include <stdio.h> 
 
 #define pi 3.142
 
